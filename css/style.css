@@ -20,6 +20,8 @@
     font-size: 1.15rem;
 }
 .navbar{
+    width: 1440px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
 }
@@ -44,4 +46,98 @@ color: rgba(5, 212, 223, 1);
     .navlink4{text-decoration: none;
 color: rgba(93, 88, 239, 1);
     }
-  
+  .c1{color:rgba(254, 163, 1, 1) ;}
+  .c2{color:rgba(1, 172, 253, 1) ;}
+  .gg{font-size: 3rem;
+font-weight: 600;}
+
+.container{  width: 1440px;
+    margin: 0 auto;}
+    .btn2{
+        background-color: rgb(0, 0, 0);
+        color: white;
+        border: none;
+        width: 197px;
+        height: 50px;
+        font-size: 1.25rem;
+        border-radius: 9px;
+    }
+ .margin{margin-top: 25px;}
+ .container-in{
+    display: flex;
+    justify-content: space-between;
+}
+.jao
+{display: flex;
+justify-content: center;
+margin-top: 5%;
+margin-bottom: 5%;}
+.box1
+{
+    text-align: center;
+    border: 1px solid rgba(255, 244, 220, 1);
+    padding: 20px 200px 20px 200px;
+    margin-right: 30px;
+    border-radius: 18.89px;
+    background-color: rgba(222, 245, 255, 1);
+}
+
+
+.box2{
+    text-align: center;
+    border: 1px solid rgba(255, 244, 220, 1);
+    background-color: rgba(255, 244, 220, 1);
+    padding: 20px 200px 20px 200px;
+    margin-right: 30px;
+    border-radius: 18.89px;
+
+}
+
+
+.box3
+{text-align: center;
+    padding: 20px 200px 20px 200px;
+    margin-right: 30px;
+    border: 1px solid rgba(238, 225, 255, 1);
+    background-color: rgba(242, 232, 255, 1);
+    border-radius: 18.89px;
+}
+
+
+.box-flex{display: flex;
+justify-content: center;
+flex: 1;
+
+}
+
+
+.box-flex{ width: 1440px;
+    margin: 0 auto;}
+
+    .button11{
+        color: rgba(100, 200, 255, 1);
+    background-color: inherit;
+        border: none;
+    }
+
+    .button22{
+        color:rgba(240, 170, 0, 1) ;
+        border: none;
+        background-color: inherit;
+    }
+
+    .button33{color: rgba(135, 0, 255, 1);
+        border: none;
+        background-color: inherit;}
+      
+        .border-image1{
+            
+            background-color: rgba(255, 255, 255, 1);
+            border-radius: 8px 8px 8px 8px;
+        
+            height: auto;
+            border: 1px solid rgb(85, 30, 30);
+        }
+        .haha{
+            margin: auto 5% ;
+        }
